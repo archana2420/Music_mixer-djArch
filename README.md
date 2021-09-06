@@ -1,2 +1,2 @@
 # Music_mixer-djArch
-Program under development
+Application under development
